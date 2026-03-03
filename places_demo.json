@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "bounds": {
+      "low": {
+        "latitude": 47.35,
+        "longitude": 6.7
+      },
+      "high": {
+        "latitude": 49.15,
+        "longitude": 8.35
+      }
+    },
+    "max_places": 3,
+    "priority_cities": [
+      "Mulhouse",
+      "Strasbourg",
+      "Colmar"
+    ],
+    "priority_target": 5,
+    "total_requests": 1
+  },
+  "places": [
+    {
+      "id_google": "ChIJseNn_J6ckUcReNkscm34bG4",
+      "name": "Église Porte Ouverte Chrétienne",
+      "description": null,
+      "formatted_address": "62 Rue de Kingersheim, 68200 Mulhouse, France",
+      "postal_code": "68200",
+      "locality": "Mulhouse",
+      "region": "Grand Est",
+      "country": "France",
+      "lat": 47.770295399999995,
+      "lng": 7.3279128,
+      "primary_type": "church",
+      "types": [
+        "church",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "rating": 4.7,
+      "user_rating_count": 805,
+      "photo_urls": [
+        "https://places.googleapis.com/v1/places/ChIJseNn_J6ckUcReNkscm34bG4/photos/EXAMPLE_1/media?maxWidthPx=800&key=YOUR_API_KEY",
+        "https://places.googleapis.com/v1/places/ChIJseNn_J6ckUcReNkscm34bG4/photos/EXAMPLE_2/media?maxWidthPx=800&key=YOUR_API_KEY"
+      ],
+      "photo_count": 2
+    },
+    {
+      "id_google": "ChIJDdLOJXWbkUcRoqzJY9JtC8o",
+      "name": "Temple Saint-Étienne",
+      "description": null,
+      "formatted_address": "12 Pl. de la Réunion, 68100 Mulhouse, France",
+      "postal_code": "68100",
+      "locality": "Mulhouse",
+      "region": "Grand Est",
+      "country": "France",
+      "lat": 47.7471041,
+      "lng": 7.3388015,
+      "primary_type": "church",
+      "types": [
+        "tourist_attraction",
+        "church",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "rating": 4.4,
+      "user_rating_count": 1584,
+      "photo_urls": [
+        "https://places.googleapis.com/v1/places/ChIJDdLOJXWbkUcRoqzJY9JtC8o/photos/EXAMPLE_1/media?maxWidthPx=800&key=YOUR_API_KEY",
+        "https://places.googleapis.com/v1/places/ChIJDdLOJXWbkUcRoqzJY9JtC8o/photos/EXAMPLE_2/media?maxWidthPx=800&key=YOUR_API_KEY"
+      ],
+      "photo_count": 2
+    },
+    {
+      "id_google": "ChIJ91t8owubkUcRcFgArbQeN4E",
+      "name": "Église Saint-Étienne",
+      "description": null,
+      "formatted_address": "10 Rue Magenta, 68100 Mulhouse, France",
+      "postal_code": "68100",
+      "locality": "Mulhouse",
+      "region": "Grand Est",
+      "country": "France",
+      "lat": 47.7439429,
+      "lng": 7.3362571,
+      "primary_type": "church",
+      "types": [
+        "tourist_attraction",
+        "church",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "rating": 4.6,
+      "user_rating_count": 315,
+      "photo_urls": [
+        "https://places.googleapis.com/v1/places/ChIJ91t8owubkUcRcFgArbQeN4E/photos/EXAMPLE_1/media?maxWidthPx=800&key=YOUR_API_KEY",
+        "https://places.googleapis.com/v1/places/ChIJ91t8owubkUcRcFgArbQeN4E/photos/EXAMPLE_2/media?maxWidthPx=800&key=YOUR_API_KEY"
+      ],
+      "photo_count": 2
+    }
+  ]
+}
